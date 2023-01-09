@@ -14,9 +14,7 @@
 /* ************************************************************************** */
 
 ``` 
-![GitHub Snake Light](https://github.com/zmconsciencia/zmconsciencia/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/zmconsciencia/zmconsciencia/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
-
+ 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/jabecass?1337Badge=off&UM6P=off" alt="jabecass's 42 stats" /></a>
 
 ## Tools
