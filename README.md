@@ -24,12 +24,12 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\42-light.svg" height="32px">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\42-svgrepo-com.svg">
-<a href="https://profile.intra.42.fr/users/dcarvalh" target="_blank"><img alt="INTRA" src=".github\dark\42-light.svg" height="42px"></a>
+<a href="https://profile.intra.42.fr/users/jabecass" target="_blank"><img alt="INTRA" src=".github\dark\42-light.svg" height="42px"></a>
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-github-60.svg">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\github.svg">
-<a href="https://github.com/diogo-crcoelho" target="_blank"><img alt="GITHUB" src=".github\dark\icons8-github-60.svg" height="42px"></a>
+<a href="https://github.com/zmconsciencia" target="_blank"><img alt="GITHUB" src=".github\dark\icons8-github-60.svg" height="42px"></a>
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-git.svg">
