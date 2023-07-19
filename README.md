@@ -35,11 +35,6 @@
 <a href="https://git-scm.com/" target="_blank"><img alt="GIT" src=".github\dark\icons8-git.svg" height="42px"></a>
 </picture>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset=".github\dark\discord-light.svg">
-<source media="(prefers-color-scheme: light)" srcset=".github\light\discord.svg">
-<a href="https://discord.com/" target="_blank"><img alt="DISCORD" src=".github\dark\discord-light.svg" height="42px"></a>
-</picture>
-<picture>
 <source media="(prefers-color-scheme: dark)" srcset=".github\dark\icons8-slack-new.svg">
 <source media="(prefers-color-scheme: light)" srcset=".github\light\slack.svg">
 <a href="https://slack.com/" target="_blank"><img alt="SLACK" src=".github\dark\icons8-slack-new.svg" height="42px"></a>
